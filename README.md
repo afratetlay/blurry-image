@@ -1,8 +1,12 @@
 # blurry-image
 
+<h1 style="center">Blurry Image</h1>
+
 ### Project Goals
 
-I wanted to create a small project which shows off the javascript skills, here is an image which initially shows blurry but then changes to a clear image. 
+- Link: https://afratetlay.github.io/blurry-image/ 
+
+-  I wanted to create a small project which shows off the javascript skills, here is an image which initially shows blurry but then changes to a clear image. 
 
 
 #### Disclaimer
